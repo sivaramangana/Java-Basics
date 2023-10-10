@@ -1,0 +1,8 @@
+class Test {
+    public static void main(String[] args) {
+        int a = 2;
+        char b = '4';
+
+        System.out.println("Output" + a + b);
+    }
+}
